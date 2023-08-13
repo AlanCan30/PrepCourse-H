@@ -1,2 +1,2 @@
-# PrepCourse-H
-Este es un repositorio de prueba del módulo 2
+Este proyecto es una prueba
+
